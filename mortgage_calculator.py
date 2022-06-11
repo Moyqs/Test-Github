@@ -98,4 +98,4 @@ print("Your monthly mortgage will be {mortgage}.".format(mortgage=Mortgage_2_dec
 amortization_schedule(Mortgage, p, interest_rate, loan_period)
 
 
-print("GG End")
+print("GG.com End")
